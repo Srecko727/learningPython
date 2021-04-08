@@ -1,2 +1,4 @@
 oscar - best
 olive - bestAsWell
+Koa - alsoTheBest
+Koda - alsoTheBestest
